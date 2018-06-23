@@ -21,4 +21,3 @@ ActiveRecord::Schema.define(version: 20180623215137) do
   end
 
 end
-
